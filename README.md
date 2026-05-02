@@ -9,9 +9,9 @@ A high-performance, containerized URL shortening service built with **Go**, leve
 - **Clean Architecture**: Built with Go's standard library and optimized for performance.
 
 # 🛠️ Tech Stack
-- **Language**: Go (Golang)
-- **Database**: Redis
-- **Containerization**: Docker & Docker Compose
+- Language: Go (Golang)
+- Database: Redis
+- Containerization: Docker & Docker Compose
 
 # 📦 Getting Started
 
