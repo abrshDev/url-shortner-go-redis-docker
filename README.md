@@ -3,10 +3,10 @@
 A high-performance, containerized URL shortening service built with **Go**, leveraging **Redis** for lightning-fast lookups and **Docker** for seamless deployment.
 
 # 🚀 Features
-- **Fast Redirection**: Sub-millisecond URL resolution using Redis.
-- **Idempotency**: Robust handling of shortening requests.
-- **Dockerized**: Ready to deploy with a single command.
-- **Clean Architecture**: Built with Go's standard library and optimized for performance.
+- Fast Redirection: Sub-millisecond URL resolution using Redis.
+- Idempotency: Robust handling of shortening requests.
+- Dockerized: Ready to deploy with a single command.
+- Clean Architecture: Built with Go's standard library and optimized for performance.
 
 # 🛠️ Tech Stack
 - Language: Go (Golang)
